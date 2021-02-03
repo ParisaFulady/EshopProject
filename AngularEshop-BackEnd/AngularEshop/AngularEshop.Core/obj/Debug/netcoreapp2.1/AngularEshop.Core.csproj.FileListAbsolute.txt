@@ -1,0 +1,12 @@
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.Core.deps.json
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.Core.dll
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.Core.pdb
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.dll
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\bin\Debug\netcoreapp2.1\AngularEshop.DataLayer.pdb
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.csprojAssemblyReference.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.AssemblyInfoInputs.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.AssemblyInfo.cs
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.csproj.CoreCompileInputs.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.csproj.CopyComplete
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.dll
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.Core\obj\Debug\netcoreapp2.1\AngularEshop.Core.pdb

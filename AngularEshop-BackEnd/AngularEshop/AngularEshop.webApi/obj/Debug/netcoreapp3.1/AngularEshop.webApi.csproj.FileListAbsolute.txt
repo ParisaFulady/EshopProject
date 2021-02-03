@@ -1,0 +1,10 @@
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\bin\Debug\netcoreapp3.1\AngularEshop.webApi.exe
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\obj\Debug\netcoreapp3.1\AngularEshop.webApi.csprojAssemblyReference.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\obj\Debug\netcoreapp3.1\AngularEshop.webApi.AssemblyInfoInputs.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\obj\Debug\netcoreapp3.1\AngularEshop.webApi.AssemblyInfo.cs
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\obj\Debug\netcoreapp3.1\AngularEshop.webApi.RazorTargetAssemblyInfo.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\obj\Debug\netcoreapp3.1\staticwebassets\AngularEshop.webApi.StaticWebAssets.Manifest.cache
+F:\EshopPro\AngularEshop\AngularEshop\AngularEshop.webApi\obj\Debug\netcoreapp3.1\staticwebassets\AngularEshop.webApi.StaticWebAssets.xml
